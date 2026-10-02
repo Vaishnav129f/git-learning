@@ -1,1 +1,1 @@
-This is the conflict version from branch1
+This is the resolved conflict version from branch1 and branch2
